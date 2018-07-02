@@ -1,0 +1,55 @@
+The way the program runs is typing in terminal as follow: 
+
+
+first install tabulate module in terminal(command promt) as: 
+
+MacOS: pip install tabulate
+Windows: C:\Python<your version>\Scripts\tabulate.exe
+
+python3 serverTravel.py
+python3 
+clientTravel.py
+
+
+
+
+Clients will be able to do the following in the server
+
+
+
+List --> list of all the flights
+
+
+
+SearchS <dep> --> search information about departure <dep>
+
+
+
+SearchD <dest> --> search information about destination <dest>
+
+
+
+Search_all <dest> --> search information about round-trip containing <dest>
+
+
+
+Buy_ticket <where> <seat> --> buy one way ticket
+
+
+
+BuyRT_ticket <where> <seat> --> buy round trip ticket
+
+
+
+Show_my_tickets --> displays the tickets bought
+
+
+
+Return_ticket <where> <seat> --> return one way ticket bought
+
+
+ReturnRT_ticket <where> <seat> --> return round trip ticket bought
+
+
+
+YouTube video: http://www.youtube.com/watch?v=a-00TN73rq0
